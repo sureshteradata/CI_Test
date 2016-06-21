@@ -1,2 +1,2 @@
 mkdir /home/TTU/Testdirectory
-#echo "source file"
+echo "source file"
